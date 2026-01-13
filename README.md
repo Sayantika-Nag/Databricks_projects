@@ -1,0 +1,5 @@
+## This is my personal project in progress where I have played with the Dataset , used Pyspark, Tabluae in the Databricks Platform
+
+# Data Introduction
+https://catalog.data.gov/dataset/mental-health-care-in-the-last-4-weeks
+This official government dataset provides a comprehensive overview of the Household Pulse Survey, an initiative launched to monitor the socioeconomic and health effects of the Covid-19 pandemic. Managed by the Centers for Disease Control and Prevention, the study specifically tracks trends in mental health care and general wellness across American households. Researchers utilized digital questionnaires sent via text and email to gather timely statistics from a diverse, randomly selected population sample. The resulting data is publicly accessible in various digital formats, offering weighted estimates to ensure accurate representation of different demographic groups. Ultimately, these resources serve as a vital tool for understanding how national crises disrupt essential services and personal stability.
